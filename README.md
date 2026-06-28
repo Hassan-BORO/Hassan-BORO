@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Hassan-BORO/Hassan-BORO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 👋 Salut, Hassan BORO
 
